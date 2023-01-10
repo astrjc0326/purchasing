@@ -1,0 +1,19 @@
+{
+  "name": "purchasing",
+  "version": "1.0.0",
+  "description": "to transfer the order from English to Biligual ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astrjc0326/purchasing.git"
+  },
+  "author": "Hsin An Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astrjc0326/purchasing/issues"
+  },
+  "homepage": "https://github.com/astrjc0326/purchasing#readme"
+}
